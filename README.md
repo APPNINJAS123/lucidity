@@ -4,6 +4,6 @@ This is an AI  website for Chatbot,video,image and audio generation using Next J
 3.Used Llama open source Ai model for Chatbot
 4.Used open source models via Replicate Ai for other features
 5.Used Clerk auth for sign in 
-6.Used prisma db and cockroach db for database.
+6.Used prisma orm and cockroach db for database.
 
 This was my 3rd next Js project(built in April), used good Youtube coding channels to get a beginner level understanding of next js and AI deployment.
